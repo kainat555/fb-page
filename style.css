@@ -1,0 +1,53 @@
+
+.btn{
+    width: 200px;
+}
+.login{
+    width: 60px;
+    height:30px ;
+    font-size: 15px !important;
+
+}
+p span{
+    color: #1a53ff;
+}
+info:hover{
+    border-color: red;
+    
+}
+.section{
+    height: 90px !important;
+}
+.acc{
+    margin-left: 200px;
+    margin-top: -60px;
+}
+.frgt{
+    font-size: 12px !important;
+
+}
+.my-2{
+    font-size: 15px !important; 
+}
+.email{
+     margin-left: 300px !important;
+}
+/* .recent{
+    
+}
+.newaccc{
+    margin-right: 70px !important;
+} */
+/* .input{ */
+    /* margin-left: 100px !important; */
+/* } */
+
+
+
+
+
+
+
+
+
+
